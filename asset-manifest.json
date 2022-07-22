@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.937d3e67.css",
+    "main.js": "/static/js/main.b6cda72f.js",
+    "static/media/Arima-Light.ttf": "/static/media/Arima-Light.517832feb2d3ee0f7469.ttf",
+    "static/media/img-01.jpg": "/static/media/img-01.cd2fc621dd96ea476f64.jpg",
+    "static/media/slider-01.jpg": "/static/media/slider-01.c026d43f8e1601a56a18.jpg",
+    "index.html": "/index.html",
+    "main.937d3e67.css.map": "/static/css/main.937d3e67.css.map",
+    "main.b6cda72f.js.map": "/static/js/main.b6cda72f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937d3e67.css",
+    "static/js/main.b6cda72f.js"
+  ]
+}
